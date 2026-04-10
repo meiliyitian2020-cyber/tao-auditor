@@ -1,0 +1,9 @@
+.env
+*.pyc
+__pycache__/
+logs/
+data/snapshot.json
+
+# 排除所有 xlsx，但保留主配置
+*.xlsx
+!tao_config.xlsx

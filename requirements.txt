@@ -1,0 +1,9 @@
+python-dotenv
+openpyxl
+vertexai
+google-auth
+apscheduler
+loguru
+requests
+gspread
+google-auth-oauthlib
